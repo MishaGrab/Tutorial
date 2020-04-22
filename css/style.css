@@ -1,0 +1,16 @@
+h2{
+    color: brown;
+    border:3px solid blueviolet;
+    text-align: center;
+    background: burlywood;
+}
+img{
+    width: 400px;
+    margin: auto;
+    display: block;
+}
+.img2{
+    width: 300px;
+    margin: auto;
+    display: block;
+}
